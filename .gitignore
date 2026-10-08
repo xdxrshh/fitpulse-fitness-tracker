@@ -1,0 +1,21 @@
+# Java build output
+/bin/
+/out/
+/target/
+*.class
+
+# Generated source lists and logs
+/sources.txt
+/sources_raw.txt
+*.log
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local embedded database files
+*.mv.db
+*.trace.db

@@ -1,0 +1,3 @@
+@echo off
+echo Compiling FitPulse Fitness Tracking System...
+powershell -ExecutionPolicy Bypass -File compile_project.ps1
